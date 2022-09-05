@@ -3,7 +3,7 @@
 
 - 🔭 Me dedico no front e back-end
 - 🌱 Estudando Dart e Python
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Zearck">
