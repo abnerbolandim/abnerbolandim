@@ -1,8 +1,8 @@
 ## Aobaaa!!! meu nome é Abner Bolandim 👋
 
 
-- 🔭 Me dedico no front e back-end
-- 🌱 Estudando Dart e Python
+- 🔭 Me dedico no front/back-end e mobile
+- 🌱 Estudando HTML e CSS
 
 <div align="center">
   <a href="https://github.com/Zearck">
