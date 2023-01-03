@@ -2,7 +2,7 @@
 
 
 - 🔭 Me dedico no front/back-end e mobile
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando CSS Avançado
 
 <div align="center">
   <a href="https://github.com/Zearck">
