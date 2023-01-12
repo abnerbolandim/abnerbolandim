@@ -2,7 +2,7 @@
 
 
 - 🔭 I dedicate myself to the front/back-end and mobile
-- 🌱 Studying Advanced CSS
+- 🌱 Studying Responsive design & Bootstrap
 
 <div align="center">
   <a href="https://github.com/Zearck">
