@@ -2,7 +2,7 @@
 
 
 - 🔭 I dedicate myself to the front/back-end and mobile
-- 🌱 Studying JavaScript
+- 🌱 Studying ECMAScript (ES6) e Orientação a Objetos
 
 <div align="center">
   <a href="https://github.com/Zearck">
