@@ -2,7 +2,7 @@
 
 
 - 🔭 I dedicate myself to the front/back-end and mobile
-- 🌱 Studying JavaScript Orientado a Objetos
+- 🌱 Studying JavaScript Object-Oriented
 
 <div align="center">
   <a href="https://github.com/abnerbolandim">
