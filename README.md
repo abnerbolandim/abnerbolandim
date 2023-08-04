@@ -2,7 +2,7 @@
 
 
 - 🔭 I dedicate myself to the front/back-end and mobile
-- 🌱 Studying JavaScript Object-Oriented
+- 🌱 Studying C# Object-Oriented
 
 <div align="center">
   <a href="https://github.com/abnerbolandim">
