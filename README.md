@@ -11,7 +11,7 @@
 
 🚀 Full Stack & Mobile Developer  
 📱 Focused on React Native, Flutter and modern web apps  
-⚡ Always learning and improving my skills  
+⚡ Always learning and improving  
 
 </div>
 
@@ -31,49 +31,17 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
----
-
-## 📱 Frameworks & Libraries
-
-<div align="center" style="display:flex; gap:15px; justify-content:center; flex-wrap:wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</div>
-
----
-
-## 🗄️ Databases & Cloud
-
-<div align="center" style="display:flex; gap:15px; justify-content:center; flex-wrap:wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
-
----
-
-## 🛠️ Tools
-
-<div align="center" style="display:flex; gap:15px; justify-content:center; flex-wrap:wrap;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </div>
 
 ---
@@ -83,15 +51,25 @@
 <div align="center">
 
 <a href="https://github.com/abnerbolandim/Portfolio-Edson">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=projeto1&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Edson&theme=dracula" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/abnerbolandim/CaresApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=projeto2&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=CaresApp&theme=dracula" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/abnerbolandim/CaresV2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=projeto3&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=CaresV2&theme=dracula" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Portfolio-Denise">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Denise&theme=dracula" />
 </a>
 
 </div>
