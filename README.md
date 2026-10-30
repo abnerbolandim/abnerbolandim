@@ -1,7 +1,6 @@
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Abner%20Bolandim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Abner%20Bolandim&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Mobile+Developer+with+React+Native;Flutter+%7C+React+%7C+JavaScript+%7C+Python;Building+clean+and+scalable+apps;Always+learning+new+techs+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Mobile+Developer+with+React+Native;Flutter+%7C+React+%7C+JavaScript+%7C+Python;Building+clean+and+scalable+apps;Always+learning+new+technologies+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -10,8 +9,9 @@
 <div align="center">
 
 🚀 Full Stack & Mobile Developer  
-📱 Focused on React Native, Flutter and modern web apps  
-⚡ Always learning and improving  
+📱 Focused on React Native, Flutter and modern web applications  
+💻 Passionate about technology and software development  
+⚡ Always learning and improving my skills  
 
 </div>
 
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abnerbolandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerbolandim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abnerbolandim&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerbolandim&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
 
@@ -33,14 +33,15 @@
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="40" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img height="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 </div>
 
@@ -51,25 +52,21 @@
 <div align="center">
 
 <a href="https://github.com/abnerbolandim/Portfolio-Edson">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Edson&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Edson&theme=dracula" />
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/abnerbolandim/CaresApp">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=CaresApp&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=CaresApp&theme=dracula" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/abnerbolandim/CaresV2">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=CaresV2&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=CaresV2&theme=dracula" />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/Portfolio-Denise">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Denise&theme=dracula" />
+<a href="https://github.com/abnerbolandim/Portfolio-Denise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerbolandim&repo=Portfolio-Denise&theme=dracula" />
 </a>
 
 </div>
@@ -81,11 +78,11 @@
 <div align="center">
 
 <a href="mailto:contato.abnerbolandim@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abner-bolandim-550bb224a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -94,12 +91,16 @@
 
 ## 🐍 Contribution Snake
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerbolandim/abnerbolandim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnerbolandim/abnerbolandim/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/abnerbolandim/abnerbolandim/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/abnerbolandim/abnerbolandim/output/github-snake.svg" />
 </picture>
+
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" />
